@@ -24,6 +24,7 @@ class OffensiveSecurityResearcher:
             "Active Directory Attack Paths",
             "Enterprise Network Infiltration", 
             "Detection Evasion Techniques",
+            "Web Security",
             "AI/LLM Red Teaming"
         ]
         
