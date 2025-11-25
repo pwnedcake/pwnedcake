@@ -170,21 +170,12 @@ Red_Team_Operations:
   </table>
 </div>
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnedcake&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedcake&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
-</div>
-
 ## 📝 **Latest Blog Posts & Research**
 
 <!-- BLOG-POST-LIST:START -->
-- 🔴 [Active Directory Certificate Services: From Misconfiguration to Domain Compromise](https://pwnedcake.github.io)
-- 🔵 [Bypassing Modern EDR Solutions: A Practical Approach](https://pwnedcake.github.io)
-- 🟡 [Living off the Land: Advanced LOLBAS Techniques](https://pwnedcake.github.io)
-- 🟢 [Kubernetes Security: Breaking Out of Containers](https://pwnedcake.github.io)
-- 🟣 [Red Team Infrastructure: Building Resilient C2 Channels](https://pwnedcake.github.io)
+- 🔴 [HackTheBox RustyKey Writeup](https://pwnedcake.github.io/posts/hackthebox-rustykey-writeup)
+- 🔵 [HackTheBox Code Writeup](https://pwnedcake.github.io/posts/hackthebox-code-writeup)
+- 🟡 [HackTheBox ProxyAsaService Challenge Writeup](https://pwnedcake.github.io/posts/hackthebox-proxyasaservice-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 **Professional Experience**
@@ -225,7 +216,7 @@ Red_Team_Operations:
   <a href="mailto:wathsaladewmina153@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pwnedcake">
+  <a href="https://linkedin.com/in/wathsaladewm1na">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -233,7 +224,6 @@ Red_Team_Operations:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pwnedcake&style=flat-square&color=00ff41" alt="Profile Views" />
   <br>
   <sub>Building secure systems by breaking them first.</sub>
 </div>
