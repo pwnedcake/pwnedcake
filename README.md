@@ -18,7 +18,7 @@ class OffensiveSecurityResearcher:
     def __init__(self):
         self.name = "Wathsala Dewmina"
         self.alias = "PwnedCake"
-        self.role = "Cyber Security Consultant @ Legion Offensive Security"
+        self.role = "Cyber Security Consultant"
         self.location = "Sri Lanka 🇱🇰"
         self.current_focus = [
             "Active Directory Attack Paths",
